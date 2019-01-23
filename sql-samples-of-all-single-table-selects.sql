@@ -1,0 +1,7 @@
+-- select count(*) from Customers
+-- select * from Customers
+-- select name as 'Customer Name', city from Customers
+-- select * from Customers where city = 'Cleveland'
+-- select * from Customers where city = 'Cleveland' or city = 'columbus'
+-- select * from Customers where city in ('Cleveland', 'columbus')
+-- select * from Customers where city = 'cincinnati' order by Sales desc 
