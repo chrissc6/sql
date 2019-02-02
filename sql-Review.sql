@@ -39,6 +39,8 @@ effects of executing update or delete-
 	-can effect entire table unless "where" clause is used
 	-delete wont delete any rows that would violate "foregin key" or other constraints
 
-function that takes two or more strings, and joins them together to make one string
+function that takes two or more strings, and joins them together to make one string-
+	concatenate function 
+	concat()
 
 */
